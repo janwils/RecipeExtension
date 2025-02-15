@@ -1,0 +1,8 @@
+{
+  "type": "module",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^4.85.1",
+    "puppeteer": "^24.2.1"
+  }
+}
