@@ -10,6 +10,7 @@
 - Simple, clean, and distraction-free interface.
 
 ## 🛠️ Installation
+   see also [Instructions for Recipe Viewer](https://docs.google.com/document/d/1TT3CUGQHv5CJaCau63HJMmz01kBL5MeORjGFLo3dKkM/edit?usp=sharing)
 1. **Download the extension**
    - Download the ZIP file containing all the necessary files: [INSERT GITHUB LINK].
    - Extract the contents of the ZIP file to a convenient location. We suggest making a new folder title "Recipe Viewer Ext" and copying the files in the ZIP over to this new folder.
