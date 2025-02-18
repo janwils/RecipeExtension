@@ -1,0 +1,23 @@
+# 📢 Recipe Viewer - Release Notes
+
+## 🚀 Version 1.0.0 (Initial Release)
+### 🎉 What's Here:
+- **Recipe Extraction:** Automatically detects and extracts only the necessary recipe details (title, ingredients, instructions, and cooking time).
+- **Minimalist Display:** Removes unnecessary content like blog stories, ads, and other clutter
+- **Wide Compatibility:** Works with popular recipe websites.
+- **User-Friendly Interface:** Simple and clean layout for easy reading.
+- **Manual Override:** Allows users to refresh extraction if needed.
+
+### 🛠️ Installation & Usage:
+Follow the steps outlined in the [README](https://github.com/janwils/RecipeExtension/blob/main/README.md) to install and use the extension.
+
+### 🐞 Known Issues:
+- Some websites with complex structures may not extract perfectly.
+- Minor UI inconsistencies on certain webpages.
+
+### 📩 Feedback:
+We'd love to hear your thoughts! Report any bugs or suggest improvements on [GitHub Issues](https://github.com/janwils/RecipeExtension/issues)
+[Feedback Form](https://forms.gle/LBM9ezRH9ubD1LQa9).
+
+---
+Happy Cooking! 🍽️🎉
