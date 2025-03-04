@@ -1,4 +1,4 @@
-# 🍽️ Recipe Viewer - Chrome Extension
+# 🍽️ Cookie Jar - Chrome Extension
 
 ## 📖 About
 **Recipe Viewer** is a lightweight Chrome extension that extracts and displays only the essential information from online recipes. No more scrolling through long personal stories and flashy ads—get straight to the ingredients and steps you need!
