@@ -22,9 +22,6 @@
 
 3. **Enjoy a clutter-free recipe browsing experience!**
 
-## 📸 Screenshots
-(Include screenshots of the extension in action here)
-
 ## 📩 Feedback & Contributions
 We welcome contributions! Feel free to submit an issue or pull request.
 - Report bugs: [GitHub Issues](https://github.com/janwils/RecipeExtension/issues)
